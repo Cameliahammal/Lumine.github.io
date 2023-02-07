@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Noto+Serif+JP:wght@300&display=swap');
+
+
+header{
+  padding: 10px;
+  background-color: #eee3d3;
+  margin-right: 0px;
+  color: whitesmoke;
+  font-size: 15px;
+}
+
+.button{
+  font-family: 'Aboreto', cursive;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 40px;
+  width: 200px;
+  border: none;
+  border-radius: 0px;
+  color: white;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.button:hover{
+  background-color: whitesmoke;
+  border: 1px solid ghostwhite;
+  color:black;
+}
+#NotreCollection{
+  margin-right: 50px;
+  margin-left: 20px;
+}
+
+#Apropos{
+   margin-right: 50px;
+}
+body {
+  font-family: 'Noto Serif JP', serif;
+}
+
+p{
+  word-spacing: 8px;
+  margin-inline: 20px;
+  text-align: justify;
+}
+#Title {
+  color: #fff;
+  padding: 120px;
+  text-align: center;
+  background-image: url(../image/Banniere.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Title h1 {
+  font-family: 'Aboreto', cursive;
+  margin-top: 50px;
+  font-size: 70px;
+}
+
+#Title h2{
+  font-family: 'Noto Serif JP', serif;
+  margin: 0;
+  font-size: 30px;
+}
+
+button{
+  font-family: 'Noto Serif JP', serif;
+  font-size: 15px;
+  height: 60px;
+  width: 200px;
+  margin-top: 40px;
+  border: none;
+  border-radius: 10px;
+  color: grey;
+  background-color: #eee3d3;
+  transition: background-color 0.5s, color 0.5s;
+}
+button:hover{
+  background-color: whitesmoke;
+  border: 1px solid ghostwhite;
+  color:black;
+}
+
+#rien{
+  padding: 5px;
+  background-color: #eee3d3;
+}
+
+#achat{
+  font-family: 'Noto Serif JP', serif;
+  font-size: 15px;
+  margin-left: 1200px;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  text-align: center;
+  height: 50px;
+  width: 200px;
+  border: none;
+  border-radius: 10px;
+  color: #eee3d3;
+  background-color:  grey;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+#achat:hover{
+  background-color: whitesmoke;
+  border: 1px solid ghostwhite;
+  color:black;
+}
+
+.card{
+  padding: 50px 30px;
+  background-color: #eee3d3;
+  border: 0px solid darkgrey;
+  text-align: center;
+  margin-top: 70px;
+}
+
+
+.collection{
+  height: 300px;
+  width: 300px;
+  margin: 50px;
+}
+
+.image1{
+  height: 100px;
+  width: 100px;
+  margin: 15px;
+}
+#email{
+   margin-left: 450px;
+   margin-right: 190px;
+}
+#Telephone{
+  margin-right: 300px;
+}
+
+.image{
+   width: 50px;
+   margin:20px;
+
+}
+
+
+ul{
+  list-style: none;
+  float: horizontal;
+}
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 70px;
+  text-align: center;
+  margin-top: 300px;
+}
+
+footer p{
+  text-align: center;
+  word-spacing: 0px;
+
+}
